@@ -1,0 +1,6 @@
+@ImplicitOperators_HostAddress = http://localhost:5105
+
+GET {{ImplicitOperators_HostAddress}}/users/
+Accept: application/json
+
+###
